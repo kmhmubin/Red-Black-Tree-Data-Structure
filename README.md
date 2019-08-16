@@ -12,22 +12,22 @@ Red black tree have most of the Binary search tree operation. Most of the BST op
 
 ## Source File
 
-The source code is written in C++. All the source file are included. We tried to make the program as simple as we can. We make an user friendly interface to use the program. When you use the program you can easily understand how data stracture is work.
+The source code is written in **C++**. All the source file are included. We tried to make the program as simple as we can. We make an user friendly interface to use the program. When you use the program you can easily understand how data stracture is work.
 
 To use this program first clone the repo or download the zip file from here.
 
 
 Go to the 
-    Red-Black Tree code folder -> bin -> debug
+    *Red-Black Tree code folder -> bin -> debug*
     
 
-In debug folder you can find a executable file named *Red-Black Tree.exe* . Run this file.
+In debug folder you can find a executable file named **Red-Black Tree.exe** . Run this file.
   
-*or* 
+## OR,
 
-You can import the project in *CodeBlock*.
+You can import the project in **CodeBlock IDE**.
 
-## Demo Images
+## Program Images
 
 **Interface**
 
