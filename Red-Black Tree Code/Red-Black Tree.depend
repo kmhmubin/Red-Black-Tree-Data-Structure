@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1545812580 source:t:\red-black tree\main.cpp
+	<iostream>
+	"rbtree.h"
+
+1545812964 t:\red-black tree\include\rbtree.h
+
+1545841646 source:c:\users\baka\downloads\compressed\red-black tree_2\red-black tree\src\rbtree.cpp
+	<iostream>
+	"rbtree.h"
+
+1545841185 c:\users\baka\downloads\compressed\red-black tree_2\red-black tree\include\rbtree.h
+
+1545841139 source:c:\users\baka\downloads\compressed\red-black tree_2\red-black tree\main.cpp
+	<iostream>
+	"rbtree.h"
+
+1545848060 source:h:\red black tree\red-black-tree-data-structure\red-black tree code\src\rbtree.cpp
+	<iostream>
+	"rbtree.h"
+
+1545848058 h:\red black tree\red-black-tree-data-structure\red-black tree code\include\rbtree.h
+
+1565954151 source:h:\red black tree\red-black-tree-data-structure\red-black tree code\main.cpp
+	<iostream>
+	"rbtree.h"
+
